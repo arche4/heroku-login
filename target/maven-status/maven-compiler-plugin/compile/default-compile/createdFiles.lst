@@ -1,0 +1,8 @@
+com\mycompany\loginheroku\controller\exceptions\PreexistingEntityException.class
+com\mycompany\loginheroku\controller\exceptions\NonexistentEntityException.class
+com\mycompany\loginheroku\controller\exceptions\IllegalOrphanException.class
+com\mycompany\loginheroku\util\JPAFactory.class
+com\mycompany\loginheroku\model\Usuario_.class
+com\mycompany\loginheroku\servlet\LoginServlet.class
+com\mycompany\loginheroku\controller\UsuarioJpaController.class
+com\mycompany\loginheroku\model\Usuario.class
